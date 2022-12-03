@@ -18,7 +18,8 @@ public class WeatherIrkustskBot extends TelegramLongPollingBot {
 
     @Override
     public String getBotToken() {
-        return "5328814181:AAFYXRCFAsxjdgQtJfB6Wlpc1EePRnobM2A";
+        String botToken = "";
+        return botToken;
     }
 
     Parsing da = new Parsing();
